@@ -1,0 +1,10 @@
+F:\Crypto\Crypto\bin\Debug\Crypto.exe.config
+F:\Crypto\Crypto\bin\Debug\Crypto.exe
+F:\Crypto\Crypto\bin\Debug\Crypto.pdb
+F:\Crypto\Crypto\obj\Debug\Crypto.csprojAssemblyReference.cache
+F:\Crypto\Crypto\obj\Debug\Crypto.Form1.resources
+F:\Crypto\Crypto\obj\Debug\Crypto.Properties.Resources.resources
+F:\Crypto\Crypto\obj\Debug\Crypto.csproj.GenerateResource.cache
+F:\Crypto\Crypto\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
+F:\Crypto\Crypto\obj\Debug\Crypto.exe
+F:\Crypto\Crypto\obj\Debug\Crypto.pdb
